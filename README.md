@@ -2,6 +2,10 @@
 
 A simple Windows desktop app that lets you schedule a PC shutdown with a clean Tkinter UI.
 
+## 📸 Screenshot
+
+![PC Shutdown Scheduler UI](main_ui.png)
+
 ## Features
 
 - Schedule shutdown after a duration
